@@ -1,3 +1,3 @@
 # Responsive-Photographic-Portfolio
 
-This is a photographic portfolio.
+This is a responsive photographic portfolio.
